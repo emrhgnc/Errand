@@ -1,0 +1,6 @@
+@Errand.Sample.WebApi_HostAddress = http://localhost:5237
+
+GET {{Errand.Sample.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
