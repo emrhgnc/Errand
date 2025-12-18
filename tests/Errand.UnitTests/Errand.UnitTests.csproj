@@ -28,7 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Errand\Errand.csproj" />
+    <ProjectReference Include="..\..\src\Errand\Errand.csproj" />
   </ItemGroup>
 
   <ItemGroup>
